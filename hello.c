@@ -8,7 +8,8 @@
     #include<stdio.h>
 
     int main(){
-    printf("Oscar Murcia Guardado and Sam Aguilar!\n");
-    printf("Our major is Electrical Engineering\n");
-
+    printf("Oscar Murcia Guardado\n");
+    printf("Electrical Engineering\n");
+    printf("Samuel Aguilar\n");
+    printf("Electrical Engineering\n");
     }
